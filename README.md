@@ -1,2 +1,2 @@
 # Bookstore-CRUD
-Simple bookstore app using nextjs, bootstrap, mysql and fastapi
+Simple bookstore app using Node.js, express and MongoDB.
